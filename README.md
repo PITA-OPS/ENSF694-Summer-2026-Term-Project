@@ -43,8 +43,8 @@ The program expects two files which are in the data subdirectory of the project.
 
 You may override these paths (in main.cpp) to point to your own filepaths:
 
-"data/campus_map.txt";
-"data/bookings.txt";
+std::string mapFile = "data/campus_map.txt";
+std::string bookingFile = "data/bookings.txt";
 
 and run: 
 ./campus_app path/to/your/map.txt path/to/yout/bookings.txt
