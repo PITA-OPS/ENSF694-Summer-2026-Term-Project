@@ -59,6 +59,9 @@ Run:
 
 Then choose option `13` from the main menu.
 
+<img width="562" height="844" alt="image" src="https://github.com/user-attachments/assets/7b1ec9c6-410d-445d-87bb-1f7470f901fd" />
+
+
 ## Campus map format
 
 Each non-comment line is:
