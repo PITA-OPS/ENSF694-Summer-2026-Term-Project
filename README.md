@@ -23,7 +23,7 @@ From the project root:
 ```bash (Terminal)
 g++ -Wall src/*.cpp -o campus_app
 ```
-    or
+    `or`
 ```bash (Terminal)
 g++ -std=c++17 -Wall -Wextra -pedantic src/*.cpp -o campus_app
 ```
